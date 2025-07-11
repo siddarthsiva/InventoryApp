@@ -20,14 +20,7 @@ def initialize_database():
             )
         ''')
         conn.commit()
-        303
-        03
-        3
 
-        3
-        3
-        3
-        6203
 
 
 
